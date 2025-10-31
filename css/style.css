@@ -1,0 +1,12 @@
+ table {
+     width: 100%; border-collapse: collapse; margin-top: 15px;  background-color: aqua;
+}
+th, td {
+    border: 1px solid ; padding: 8px; text-align: left;
+}
+th { 
+    background:lightskyblue; }
+button { 
+    margin: 4px; padding: 8px 16px; cursor: pointer; 
+}
+ 
